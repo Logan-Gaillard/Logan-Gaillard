@@ -1,6 +1,6 @@
-# Salut, moi c’est Logan GAILLARD !
+# Bienvenue sur mon profil !
 
-Étudiant en BTS SIO (2ᵉ année) à Rochefort | Passionné de dev & nouvelles technos  
+Actuellment étudiant en BTS SIO (2ᵉ année) à Rochefort | Passionné de dev & nouvelles technologies
 
 ---
 
@@ -10,6 +10,15 @@ Je m'appelle **Logan**, j'ai **19 ans**, et je suis passionné par le développe
 Après un **Bac Pro Systèmes Numériques** au lycée Rompsay (La Rochelle), je poursuis mes études en **BTS SIO option SLAM** à Rochefort.  
 Curieux, motivé et autonome, j’apprends rapidement et j’aime expérimenter de nouvelles technos.  
 Je vais intégrer le **Bachelor Concepteur Développeur d’Applications** au **CESI de La Rochelle** en alternance.
+
+Mon objectif est d'attendre le niveau BAC+5 ou son équivalent en niveau RNCP dans cette filière.
+
+## URGENCE - ALTERNANCE
+
+Je suis **à la recherche d'une alternance** dans le développement **web**, **logiciel** ou **mobile** pour un an ou plus.
+Sur **1 semaine de formation / 3 semaines en entreprise**  
+Je cherche à rejoindre une équipe dynamique pour continuer à progresser et relever de nouveaux défis !
+
 
 ---
 
@@ -63,9 +72,8 @@ Je vais intégrer le **Bachelor Concepteur Développeur d’Applications** au **
 
 ## Objectif
 
-Je suis **à la recherche d'une alternance** dans le développement **web**, **logiciel** ou **mobile** :  
-**1 semaine de formation / 3 semaines en entreprise**  
-Je cherche à rejoindre une équipe dynamique pour continuer à progresser et relever de nouveaux défis !
+Je suis **à la recherche d'une alternance** dans le développement **web**, **logiciel** ou **mobile** pour un contrat d'un an ou plus.
+Le rythme d'alternance est : **1 semaine de formation / 3 semaines en entreprise**  
 
 ---
 
