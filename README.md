@@ -62,10 +62,18 @@ Je cherche à rejoindre une équipe dynamique pour continuer à progresser et re
 
 ---
 
-### 3. Application Hybride - *Gestion patients (psychologie)*  
+### 3. Application Hybride - *Jeu de sable*  
 **Objectif :** Application de gestion de patient pour une entreprise de psychologie.  
 **Accessible sur navigateur, Android et iOS.**  
 **Technos :** JavaScript, Vue.js, Ionic  
+**Travail solo**
+
+---
+
+### 4. Modding Super Mario Odyssey - *SuperMarioOdysseyMaker*  
+**Objectif :** Modification d'un jeu vidéo en y injectant du code C++.  
+**Technos :** Mise en place d'une Linux (WSL) et programmation en C++. 
+Expérimentation en reverse-engineering avec symboles inclus
 **Travail solo**
 
 ---
