@@ -74,7 +74,8 @@ Je cherche à rejoindre une équipe dynamique pour continuer à progresser et re
 **Objectif :** Modification d'un jeu vidéo en y injectant du code C++.  
 **Technos :** Mise en place d'une Linux (WSL) et programmation en C++.  
 Expérimentation en reverse-engineering avec symboles inclus.  
-**Travail solo**
+**Travail solo**  
+**Lien :** [Repository GitHub](https://github.com/Logan-Gaillard/SuperMarioOdysseyMaker)
 
 ---
 
