@@ -75,7 +75,8 @@ Je cherche à rejoindre une équipe dynamique pour continuer à progresser et re
 **Technos :** Mise en place d'une Linux (WSL) et programmation en C++.  
 Expérimentation en reverse-engineering avec symboles inclus.  
 **Travail solo**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Logan-Gaillard&repo=SuperMarioOdysseyMaker)](https://github.com/Logan-Gaillard/SuperMarioOdysseyMaker)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Logan-Gaillard&repo=SuperMarioOdysseyMaker)](https://github.com/Logan-Gaillard/SuperMarioOdysseyMaker)  
 ---
 
 ## Objectif
