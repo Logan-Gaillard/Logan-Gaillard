@@ -79,13 +79,6 @@ Expérimentation en reverse-engineering avec symboles inclus.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Logan-Gaillard&repo=SuperMarioOdysseyMaker)](https://github.com/Logan-Gaillard/SuperMarioOdysseyMaker)  
 ---
 
-## Objectif
-
-Je suis **à la recherche d'une alternance** dans le développement **web**, **logiciel** ou **mobile** pour un contrat d'un an ou plus.
-Le rythme d'alternance est : **1 semaine de formation / 3 semaines en entreprise**  
-
----
-
 ## Mes stats GitHub
 
 ![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Logan-GAILLARD&show_icons=true&theme=tokyonight&locale=fr)
