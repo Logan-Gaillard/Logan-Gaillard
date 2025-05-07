@@ -76,8 +76,8 @@ Je cherche à rejoindre une équipe dynamique pour continuer à progresser et re
 Expérimentation en reverse-engineering avec symboles inclus.  
 **Travail solo**  
 **Lien :** [Repository GitHub](https://github.com/Logan-Gaillard/SuperMarioOdysseyMaker)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Logan-Gaillard&repo=SuperMarioOdysseyMaker)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Logan-Gaillard/SuperMarioOdysseyMaker))
-
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Logan-Gaillard&repo=SuperMarioOdysseyMaker)](https://github.com/Logan-Gaillard/SuperMarioOdysseyMaker)
 ---
 
 ## Objectif
