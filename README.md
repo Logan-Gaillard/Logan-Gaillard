@@ -13,13 +13,6 @@ Je vais intégrer le **Bachelor Concepteur Développeur d’Applications** au **
 
 Mon objectif est d'attendre le niveau BAC+5 ou son équivalent en niveau RNCP dans cette filière.
 
-## URGENCE - ALTERNANCE
-
-Je suis **à la recherche d'une alternance** dans le développement **web**, **logiciel** ou **mobile** pour un an ou plus.
-Sur **1 semaine de formation / 3 semaines en entreprise**  
-Je cherche à rejoindre une équipe dynamique pour continuer à progresser et relever de nouveaux défis !
-
-
 ---
 
 ## Compétences principales
