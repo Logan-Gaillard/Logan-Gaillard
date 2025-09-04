@@ -1,15 +1,15 @@
 # Bienvenue sur mon profil !
 
-Actuellment étudiant en BTS SIO (2ᵉ année) à Rochefort | Passionné de dev & nouvelles technologies
+Actuellement en **Bachelor Concepteur Développeur d’Applications** au **CESI** en alternance avec l'entreprise Numérisk. | Passionné de dev & nouvelles technologies
 
 ---
 
 ## À propos de moi
 
 Je m'appelle **Logan**, j'ai **19 ans**, et je suis passionné par le développement logiciel, web et mobile.  
-Après un **Bac Pro Systèmes Numériques** au lycée Rompsay (La Rochelle), je poursuis mes études en **BTS SIO option SLAM** à Rochefort.  
+Après un **Bac Pro Systèmes Numériques** au lycée Rompsay (La Rochelle), j'ai poursuis mes études en **BTS SIO option SLAM** à Rochefort.  
 Curieux, motivé et autonome, j’apprends rapidement et j’aime expérimenter de nouvelles technos.  
-Je vais intégrer le **Bachelor Concepteur Développeur d’Applications** au **CESI de La Rochelle** en alternance.
+
 
 Mon objectif est d'attendre le niveau BAC+5 ou son équivalent en niveau RNCP dans cette filière.
 
