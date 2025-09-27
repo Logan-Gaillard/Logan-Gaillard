@@ -6,8 +6,8 @@ Actuellement en **Bachelor Concepteur Développeur d’Applications** au **CESI*
 
 ## À propos de moi
 
-Je m'appelle **Logan**, j'ai **19 ans**, et je suis passionné par le développement logiciel, web et mobile.  
-Après un **Bac Pro Systèmes Numériques** au lycée Rompsay (La Rochelle), j'ai poursuis mes études en **BTS SIO option SLAM** à Rochefort.  
+Je m'appelle **Logan**, j'ai **20 ans**, et je suis passionné par le développement logiciel, web et mobile.  
+Après un **Bac Pro Systèmes Numériques** au lycée Rompsay (La Rochelle) et un **BTS SIO option SLAM** à Rochefort je poursuis mes études en **3ème année Concepteur Développeur d'Application** au CESI  
 Curieux, motivé et autonome, j’apprends rapidement et j’aime expérimenter de nouvelles technos.  
 
 
