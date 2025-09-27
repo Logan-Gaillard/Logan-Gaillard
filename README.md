@@ -39,7 +39,15 @@ Mon objectif est d'attendre le niveau BAC+5 ou son équivalent en niveau RNCP da
 
 ## Projets réalisés
 
-### 1. Application Web - *Course contre la faim*  
+### 1. Programme Python - *Joy2Win*   
+**Objectif :** Rendre compatible les Joy-Con 2 de la Nintendo Switch sur Windows   
+**Technos :** Python  
+**Travail solo**  
+**Lien :** [Github](https://github.com/Logan-Gaillard/Joy2Win)
+
+---
+
+### 2. Application Web - *Course contre la faim*  
 **Objectif :** Gérer les coureurs et les dons pour un événement caritatif.  
 **Technos :** Laravel, PHP, MVC  
 **Travail en groupe**  
@@ -47,7 +55,7 @@ Mon objectif est d'attendre le niveau BAC+5 ou son équivalent en niveau RNCP da
 
 ---
 
-### 2. Extension Navigateur - *Will's Extension*  
+### 3. Extension Navigateur - *Will's Extension*  
 **Objectif :** Être notifié en temps réel des nouvelles vidéos ou lives d’un streamer.  
 **Technos :** HTML, CSS, JS (client) & Node.js (serveur)  
 **Travail solo**  
@@ -55,7 +63,7 @@ Mon objectif est d'attendre le niveau BAC+5 ou son équivalent en niveau RNCP da
 
 ---
 
-### 3. Application Hybride - *Jeu de sable*  
+### 4. Application Hybride - *Jeu de sable*  
 **Objectif :** Application de gestion de patient pour une entreprise de psychologie.  
 **Accessible sur navigateur, Android et iOS.**  
 **Technos :** JavaScript, Vue.js, Ionic  
@@ -63,7 +71,7 @@ Mon objectif est d'attendre le niveau BAC+5 ou son équivalent en niveau RNCP da
 
 ---
 
-### 4. Modding Super Mario Odyssey - *SuperMarioOdysseyMaker*  
+### 5. Modding Super Mario Odyssey - *SuperMarioOdysseyMaker*  
 **Objectif :** Modification d'un jeu vidéo en y injectant du code C++.  
 **Technos :** Mise en place d'une Linux (WSL) et programmation en C++.  
 Expérimentation en reverse-engineering avec symboles inclus.  
