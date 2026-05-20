@@ -82,8 +82,7 @@ Expérimentation en reverse-engineering avec symboles inclus.
 
 ## Mes stats GitHub
 
-![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Logan-GAILLARD&show_icons=true&theme=tokyonight&locale=fr)
-
+![Logan's GitHub Stats](https://github-stats.com/api?username=Logan-GAILLARD&theme=tokyonight)
 ---
 
 ## Me contacter
